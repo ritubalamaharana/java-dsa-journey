@@ -1,4 +1,4 @@
-package DSA.basics;
+package DSA.Arrays;
 import java.util.Scanner;
 
 public class SumOfArray {

@@ -1,4 +1,4 @@
-package java.loops;
+package Java.loops;
 public class Patterns {
     public static void pattern1(){
         for(int i=1; i<=5; i++){

@@ -1,4 +1,4 @@
-package java.functions;
+package Java.functions;
 import java.util.Scanner;
 
 public class ArmstrongCheckFunction {

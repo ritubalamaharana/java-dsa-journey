@@ -1,4 +1,4 @@
-package java.loops;
+package Java.loops;
 import java.util.Scanner;
 
 public class SumOfN {

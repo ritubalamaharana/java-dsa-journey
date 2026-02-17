@@ -1,4 +1,4 @@
-package DSA.arrays;
+package DSA.Arrays;
 import java.util.Scanner;
 
 public class ArrayInputOutput {
@@ -9,9 +9,9 @@ public class ArrayInputOutput {
         size = sc.nextInt();
         int numbers[] = new int[size];
         System.out.print("Enter numbers:");
-        for(int i=0; i<size; i++){
+        for(int i=0; i<size; i++)
             numbers[i] = sc.nextInt();
-        }
+        
         System.out.print("The numbers are:");
         for(int i=0; i<size; i++){
             System.out.print(numbers[i]+ " ");

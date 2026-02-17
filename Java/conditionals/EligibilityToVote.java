@@ -1,4 +1,4 @@
-package java.conditionals;
+package Java.conditionals;
 import java.util.Scanner;
 
 public class EligibilityToVote {
